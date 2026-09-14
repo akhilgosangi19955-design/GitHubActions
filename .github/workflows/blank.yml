@@ -7,4 +7,4 @@ jobs:
       - name: Hello Step
         run:  
           echo "Welcome to GHA"
-          echo "Welcome venu"
+          echo "Welcome venu 2"
